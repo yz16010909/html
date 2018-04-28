@@ -4,3 +4,9 @@ li:last-child{}
 li:nth-of-type(3){}
   //指第三个li,在那里加样式
   //优势是只识别li,不会涉及其他标签
+
+ul:first-child{}
+  //指第一个ul
+ 
+li:nth-child(num){}
+  //指第num个li的样式
